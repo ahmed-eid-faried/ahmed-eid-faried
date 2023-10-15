@@ -10,23 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedei66740453" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedei66740453?logo=twitter&style=for-the-badge" alt="ahmedei66740453" /></a> </p>
 
-- 🔭 I’m currently working on [Taxi App](https://github.com/ahmed-eid-faried/taxi)
-
-- 🌱 I’m currently learning **RealTime with flutter, Pocher, Socket.io, WebSocket.**
-
 - 👨‍💻 All of my projects are available at [https://cv.amadytech.com/](https://cv.amadytech.com/)
+- 📫 How to reach me **ahmedmady@amadytech.com**
+- 📄 Know about my experiences [cv](https://drive.google.com/file/d/1q5Vg44gRgH9Er4mCN5lYJRlVpURrBIdY/view)
 
 - 💬 Ask me about **Experienced Flutter Developer skilled in Dart, OOP, and Solid Principles, proficient in problem-solving and data structures. Demonstrated expertise in Flutter, including animations, notifications, and deployment, coupled with strong proficiency in handling RESTful APIs, JSON, Postman, and Thunder Client, along with MySQL and PHP for API integration. Well-versed in state management techniques, including Getx ecosystem, Provider, and Bloc pattern, with a solid grasp of design patterns, such as MVC, and a commitment to clean code and clean architecture. Proficient in Firebase services, debugging, various testing methodologies, Git, GitHub, UI/UX tools like Adobe XD and Figma, and adept in communication in English. Experienced in CI/CD, Agile development methodologies, and working with Jira for efficient project management.**
 
-- 📫 How to reach me **ahmedmady@amadytech.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q5Vg44gRgH9Er4mCN5lYJRlVpURrBIdY/view](https://drive.google.com/file/d/1q5Vg44gRgH9Er4mCN5lYJRlVpURrBIdY/view)
-
-- ⚡ Fun fact **I think I am funny**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
