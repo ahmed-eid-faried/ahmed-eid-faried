@@ -56,23 +56,8 @@ I'm Ahmed Eid Faried, a passionate software engineer who loves coding and creati
 - **Clean Architecture:** Building scalable and maintainable apps
 - **CI/CD:** Using Codemagic for continuous integration and delivery
 - **Agile Development Methodologies:** Collaborative and adaptive project management
-
-## Projects
-
-- **Project 1:** Brief description and link to the project repository.
-- **Project 2:** Brief description and link to the project repository.
-- ...
-
-## Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: [youremail@example.com]
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com/)
-
-Feel free to reach out to discuss collaborations, projects, or anything tech-related. Let's build amazing things together!
-
-////////////////////////////////////////////////
-<h1 align="center">Hi 👋, I'm Flutter Developer</h1>
+ 
+ <h1 align="center">Hi 👋, I'm Flutter Developer</h1>
 <h3 align="center">Experienced Flutter Developer with strong expertise in Dart, Flutter, RESTful APIs, and Firebase, proficient in state management and clean architecture, and a commitment to delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-eid-faried&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-eid-faried" /> </p>
