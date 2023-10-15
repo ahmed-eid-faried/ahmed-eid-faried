@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedesmailcis&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedesmailcis" /> </p>
 <h3 align="center">Experienced Flutter Developer with strong expertise in Dart, Flutter, RESTful APIs, and Firebase, proficient in state management and clean architecture, and a commitment to delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-eid-faried&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-eid-faried" /> </p>
