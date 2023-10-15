@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E87CA&center=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mady;I'm+Flutter+Developer;A+Passionate+Frontend+Mobile+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E87CA&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mady;I'm+Flutter+Developer;A+Passionate+Frontend+Mobile+Developer" alt="Typing SVG" /></a>
 
 <h3 align="left">Experienced Flutter Developer with strong expertise in Dart, Flutter, RESTful APIs, and Firebase, proficient in state management and clean architecture, and a commitment to delivering high-quality software solutions.</h3>
 
