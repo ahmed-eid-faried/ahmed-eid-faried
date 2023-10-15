@@ -72,13 +72,28 @@ I'm Ahmed Eid Faried, a passionate software engineer who loves coding and creati
 Feel free to reach out to discuss collaborations, projects, or anything tech-related. Let's build amazing things together!
 
 ////////////////////////////////////////////////
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Flutter Developer</h1>
+<h3 align="center">Experienced Flutter Developer with strong expertise in Dart, Flutter, RESTful APIs, and Firebase, proficient in state management and clean architecture, and a commitment to delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-eid-faried&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-eid-faried" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-eid-faried" alt="ahmed-eid-faried" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedei66740453" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedei66740453?logo=twitter&style=for-the-badge" alt="ahmedei66740453" /></a> </p>
+
+- 🔭 I’m currently working on [Taxi App](https://github.com/ahmed-eid-faried/taxi)
+
+- 🌱 I’m currently learning **RealTime with flutter, Pocher, Socket.io, WebSocket.**
+
+- 👨‍💻 All of my projects are available at [https://cv.amadytech.com/](https://cv.amadytech.com/)
+
+- 💬 Ask me about **Experienced Flutter Developer skilled in Dart, OOP, and Solid Principles, proficient in problem-solving and data structures. Demonstrated expertise in Flutter, including animations, notifications, and deployment, coupled with strong proficiency in handling RESTful APIs, JSON, Postman, and Thunder Client, along with MySQL and PHP for API integration. Well-versed in state management techniques, including Getx ecosystem, Provider, and Bloc pattern, with a solid grasp of design patterns, such as MVC, and a commitment to clean code and clean architecture. Proficient in Firebase services, debugging, various testing methodologies, Git, GitHub, UI/UX tools like Adobe XD and Figma, and adept in communication in English. Experienced in CI/CD, Agile development methodologies, and working with Jira for efficient project management.**
+
+- 📫 How to reach me **ahmedmady@amadytech.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q5Vg44gRgH9Er4mCN5lYJRlVpURrBIdY/view](https://drive.google.com/file/d/1q5Vg44gRgH9Er4mCN5lYJRlVpURrBIdY/view)
+
+- ⚡ Fun fact **I think I am funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -88,16 +103,16 @@ Feel free to reach out to discuss collaborations, projects, or anything tech-rel
 <p align="left">
 <a href="https://dev.to/ahmedmadyzsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedmadyzsx" height="30" width="40" /></a>
 <a href="https://twitter.com/ahmedei66740453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedei66740453" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-eid-a16715228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-eid-a16715228/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19956465/ahmed-mady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19956465/ahmed-mady" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-eid-a16715228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-eid-a16715228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19956465/ahmed-mady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19956465/ahmed-mady" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/profile.php?ref=bookmarks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/profile.php?ref=bookmarks/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ahmedeid70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ahmedeid70" height="30" width="40" /></a>
+<a href="https://www.behance.net/ahmedeid70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedeid70" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmed.eid.ac.1.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmed.eid.ac.1.edu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ahmedmady9938/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ahmedmady9938/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ahmed_eid_ac_1_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmed_eid_ac_1_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ahmed-eid-faried/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed-eid-faried/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ahmedmady9938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ahmedmady9938" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmed_eid_ac_1_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_eid_ac_1_1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmed-eid-faried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed-eid-faried" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ahmedeidac1edu/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ahmedeidac1edu/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/ahmed_mady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/ahmed_mady" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/ahmed_mady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ahmed_mady" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -108,6 +123,3 @@ Feel free to reach out to discuss collaborations, projects, or anything tech-rel
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-eid-faried&show_icons=true&locale=en" alt="ahmed-eid-faried" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-eid-faried&" alt="ahmed-eid-faried" /></p>
-
-
-
