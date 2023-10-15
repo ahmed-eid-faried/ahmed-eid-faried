@@ -1,6 +1,8 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E87CA&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mady;I'm+Flutter+Developer; A+Passionate+Frontend+Mobile+Developer" alt="Typing SVG" /></a> </h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E87CA&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mady;I'm+Flutter+Developer;A+Passionate+Frontend+Mobile+Developer" alt="Typing SVG" /></a> </h1>
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E87CA&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mady;I'm+Flutter+Developer;A+Passionate+Frontend+Mobile+Developer)](https://git.io/typing-svg)
+ </h1>
 <h3 align="left">Experienced Flutter Developer with strong expertise in Dart, Flutter, RESTful APIs, and Firebase, proficient in state management and clean architecture, and a commitment to delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-eid-faried&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-eid-faried" /> </p>
