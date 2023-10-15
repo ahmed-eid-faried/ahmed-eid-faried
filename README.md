@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Flutter Developer</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Mady</h1>
+<h2 align="center">I'm Flutter Developer</h2>
+<h3 align="center">A Passionate Frontend Mobile Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+
 <h3 align="center">Experienced Flutter Developer with strong expertise in Dart, Flutter, RESTful APIs, and Firebase, proficient in state management and clean architecture, and a commitment to delivering high-quality software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-eid-faried&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-eid-faried" /> </p>
