@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mady</h1>
-<h2 align="center">I'm Flutter Developer</h2>
-<h3 align="center">A Passionate Frontend Mobile Developer</h3>
-
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Flutter+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Frontend+Mobile+Developer)](https://git.io/typing-svg)
