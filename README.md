@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ahmedmadyzsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedmadyzsx" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/ahmedmadyzsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahmedmadyzsx" height="30" width="40" /></a> -->
 <a href="https://twitter.com/ahmedei66740453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedei66740453" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-eid-a16715228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-eid-a16715228" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19956465/ahmed-mady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19956465/ahmed-mady" height="30" width="40" /></a>
