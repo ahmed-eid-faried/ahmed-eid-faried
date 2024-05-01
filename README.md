@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedei66740453" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedei66740453?logo=twitter&style=for-the-badge" alt="ahmedei66740453" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [cv.amadytech.com](https://cv.amadytech.com/)
+- 👨‍💻 All of my projects are available at [ahmed-eid-faried.github.io](https://ahmed-eid-faried.github.io/)
 - 📫 How to reach me **ahmedmady@amadytech.com**
 - 📄 Know about my experiences [cv](https://drive.google.com/file/d/1q5Vg44gRgH9Er4mCN5lYJRlVpURrBIdY/view)
 
